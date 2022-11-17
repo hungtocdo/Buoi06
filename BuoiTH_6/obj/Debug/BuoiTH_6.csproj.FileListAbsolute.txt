@@ -1,0 +1,11 @@
+E:\LTĐT_C#\BuoiTH_6\BuoiTH_6\bin\Debug\BuoiTH_6.exe.config
+E:\LTĐT_C#\BuoiTH_6\BuoiTH_6\bin\Debug\BuoiTH_6.exe
+E:\LTĐT_C#\BuoiTH_6\BuoiTH_6\bin\Debug\BuoiTH_6.pdb
+E:\LTĐT_C#\BuoiTH_6\BuoiTH_6\obj\Debug\BuoiTH_6.csproj.AssemblyReference.cache
+E:\LTĐT_C#\BuoiTH_6\BuoiTH_6\obj\Debug\BuoiTH_6.csproj.SuggestedBindingRedirects.cache
+E:\LTĐT_C#\BuoiTH_6\BuoiTH_6\obj\Debug\BuoiTH_6.Form1.resources
+E:\LTĐT_C#\BuoiTH_6\BuoiTH_6\obj\Debug\BuoiTH_6.Properties.Resources.resources
+E:\LTĐT_C#\BuoiTH_6\BuoiTH_6\obj\Debug\BuoiTH_6.csproj.GenerateResource.cache
+E:\LTĐT_C#\BuoiTH_6\BuoiTH_6\obj\Debug\BuoiTH_6.csproj.CoreCompileInputs.cache
+E:\LTĐT_C#\BuoiTH_6\BuoiTH_6\obj\Debug\BuoiTH_6.exe
+E:\LTĐT_C#\BuoiTH_6\BuoiTH_6\obj\Debug\BuoiTH_6.pdb
