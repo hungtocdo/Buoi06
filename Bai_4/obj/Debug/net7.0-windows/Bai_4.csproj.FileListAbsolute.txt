@@ -1,0 +1,17 @@
+E:\LTĐT_C#\BuoiTH_6\Bai_4\bin\Debug\net7.0-windows\Bai_4.exe
+E:\LTĐT_C#\BuoiTH_6\Bai_4\bin\Debug\net7.0-windows\Bai_4.deps.json
+E:\LTĐT_C#\BuoiTH_6\Bai_4\bin\Debug\net7.0-windows\Bai_4.runtimeconfig.json
+E:\LTĐT_C#\BuoiTH_6\Bai_4\bin\Debug\net7.0-windows\Bai_4.dll
+E:\LTĐT_C#\BuoiTH_6\Bai_4\bin\Debug\net7.0-windows\Bai_4.pdb
+E:\LTĐT_C#\BuoiTH_6\Bai_4\obj\Debug\net7.0-windows\Bai_4.csproj.AssemblyReference.cache
+E:\LTĐT_C#\BuoiTH_6\Bai_4\obj\Debug\net7.0-windows\Bai_4.Form1.resources
+E:\LTĐT_C#\BuoiTH_6\Bai_4\obj\Debug\net7.0-windows\Bai_4.csproj.GenerateResource.cache
+E:\LTĐT_C#\BuoiTH_6\Bai_4\obj\Debug\net7.0-windows\Bai_4.GeneratedMSBuildEditorConfig.editorconfig
+E:\LTĐT_C#\BuoiTH_6\Bai_4\obj\Debug\net7.0-windows\Bai_4.AssemblyInfoInputs.cache
+E:\LTĐT_C#\BuoiTH_6\Bai_4\obj\Debug\net7.0-windows\Bai_4.AssemblyInfo.cs
+E:\LTĐT_C#\BuoiTH_6\Bai_4\obj\Debug\net7.0-windows\Bai_4.csproj.CoreCompileInputs.cache
+E:\LTĐT_C#\BuoiTH_6\Bai_4\obj\Debug\net7.0-windows\Bai_4.dll
+E:\LTĐT_C#\BuoiTH_6\Bai_4\obj\Debug\net7.0-windows\refint\Bai_4.dll
+E:\LTĐT_C#\BuoiTH_6\Bai_4\obj\Debug\net7.0-windows\Bai_4.pdb
+E:\LTĐT_C#\BuoiTH_6\Bai_4\obj\Debug\net7.0-windows\Bai_4.genruntimeconfig.cache
+E:\LTĐT_C#\BuoiTH_6\Bai_4\obj\Debug\net7.0-windows\ref\Bai_4.dll
